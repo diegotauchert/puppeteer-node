@@ -1,0 +1,13 @@
+{
+  "name": "yes",
+  "version": "yes",
+  "description": "testing robo",
+  "main": "yes",
+  "author": "Diego Tauchert",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "^3.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
